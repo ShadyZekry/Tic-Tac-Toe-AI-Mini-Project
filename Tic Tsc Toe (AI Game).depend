@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1559105907 source:e:\tic tsc toe (ai game)\ai.cpp
+	"AI.h"
+	"MyBoard.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1559105625 e:\tic tsc toe (ai game)\ai.h
+	"MyBoard.h"
+	<vector>
+
+1559107869 e:\tic tsc toe (ai game)\myboard.h
+
+1559108507 source:e:\tic tsc toe (ai game)\main.cpp
+	<iostream>
+	"MyBoard.h"
+	"AI.h"
+
+1559107883 source:e:\tic tsc toe (ai game)\myboard.cpp
+	"MyBoard.h"
+	<iostream>
+
